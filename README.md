@@ -1,2 +1,2 @@
-# Linear-Regression
+# Linear Regression
 Linear regression using gradient descent
